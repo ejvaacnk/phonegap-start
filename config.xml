@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns		= "http://www.w3.org/ns/widgets"
 	xmlns:gap	= "http://phonegap.com/ns/1.0"
-	id		= "com.phonegap.getting.started"
+	id		= "com.Test.1"
 	version 	= "1.0.0">
 
-	<name>PhoneGap: Getting Started</name>
+	<name>Test</name>
 
 	<description>
-		A template for getting started with PhoneGap development and build.phonegap.com
+		Evan's First App
 	</description>
 
 	<author href="http://alunny.github.com"
